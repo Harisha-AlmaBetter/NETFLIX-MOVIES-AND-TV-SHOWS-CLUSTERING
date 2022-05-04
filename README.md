@@ -17,7 +17,8 @@ We have the data of which contains details of customers like id , age, gender an
 **Dataset info**
 
 Number of records: 7787
-2.Number of features: 12
+
+Number of features: 12
 
 **Features information:**
 The dataset contains features like:
